@@ -5,4 +5,4 @@ first remote commit.
 
 modify on dev branch.
 
-modified after create new branch feature1.
+create a new branch named feature1,solve branch conflict.
